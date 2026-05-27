@@ -142,7 +142,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>✈️ AI Travel Planning Assistant</h1>
-    <p>Powered by LangChain · Agentic AI · Real-time Weather · Smart Itineraries . Devvlop by Fahad</p>
+    <p>Powered by LangChain · Agentic AI · Real-time Weather · Smart Itineraries . Develop by Fahad</p>
 </div>
 """, unsafe_allow_html=True)
 
