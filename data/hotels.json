@@ -1,0 +1,22 @@
+[
+  {"hotel_id": "H001", "name": "Sea View Resort", "city": "Goa", "price_per_night": 3200, "rating": 4.5, "stars": 4, "amenities": ["Pool", "Beach Access", "WiFi", "Breakfast"], "type": "Resort"},
+  {"hotel_id": "H002", "name": "Calangute Beach Hotel", "city": "Goa", "price_per_night": 2100, "rating": 4.0, "stars": 3, "amenities": ["WiFi", "Restaurant", "Parking"], "type": "Hotel"},
+  {"hotel_id": "H003", "name": "Goa Luxury Palace", "city": "Goa", "price_per_night": 6500, "rating": 4.8, "stars": 5, "amenities": ["Pool", "Spa", "Beach Access", "WiFi", "Breakfast", "Bar"], "type": "Luxury"},
+  {"hotel_id": "H004", "name": "Budget Stays Goa", "city": "Goa", "price_per_night": 1200, "rating": 3.5, "stars": 2, "amenities": ["WiFi", "Parking"], "type": "Budget"},
+  {"hotel_id": "H005", "name": "Taj Mahal Palace", "city": "Mumbai", "price_per_night": 12000, "rating": 4.9, "stars": 5, "amenities": ["Pool", "Spa", "Restaurant", "WiFi", "Bar", "Gym"], "type": "Luxury"},
+  {"hotel_id": "H006", "name": "Mumbai Grand Hotel", "city": "Mumbai", "price_per_night": 4500, "rating": 4.2, "stars": 4, "amenities": ["Pool", "WiFi", "Restaurant", "Gym"], "type": "Hotel"},
+  {"hotel_id": "H007", "name": "Colaba Budget Inn", "city": "Mumbai", "price_per_night": 1800, "rating": 3.6, "stars": 2, "amenities": ["WiFi", "AC"], "type": "Budget"},
+  {"hotel_id": "H008", "name": "Kerala Backwater Resort", "city": "Kerala", "price_per_night": 5500, "rating": 4.7, "stars": 5, "amenities": ["Houseboat", "Ayurveda", "Pool", "WiFi", "Breakfast"], "type": "Resort"},
+  {"hotel_id": "H009", "name": "Munnar Hill Retreat", "city": "Kerala", "price_per_night": 3800, "rating": 4.4, "stars": 4, "amenities": ["Mountain View", "WiFi", "Restaurant", "Parking"], "type": "Resort"},
+  {"hotel_id": "H010", "name": "Kerala Budget Home", "city": "Kerala", "price_per_night": 1500, "rating": 3.8, "stars": 2, "amenities": ["WiFi", "AC", "Breakfast"], "type": "Budget"},
+  {"hotel_id": "H011", "name": "Rajasthan Heritage Haveli", "city": "Rajasthan", "price_per_night": 7500, "rating": 4.8, "stars": 5, "amenities": ["Pool", "Spa", "Cultural Shows", "WiFi", "Breakfast"], "type": "Heritage"},
+  {"hotel_id": "H012", "name": "Jaipur Palace Hotel", "city": "Rajasthan", "price_per_night": 4000, "rating": 4.3, "stars": 4, "amenities": ["Pool", "WiFi", "Restaurant", "Camel Rides"], "type": "Hotel"},
+  {"hotel_id": "H013", "name": "Rajasthan Desert Camp", "city": "Rajasthan", "price_per_night": 2800, "rating": 4.1, "stars": 3, "amenities": ["Desert Safari", "Bonfire", "WiFi", "Breakfast"], "type": "Camp"},
+  {"hotel_id": "H014", "name": "Delhi Imperial Hotel", "city": "Delhi", "price_per_night": 8000, "rating": 4.7, "stars": 5, "amenities": ["Pool", "Spa", "Restaurant", "WiFi", "Bar"], "type": "Luxury"},
+  {"hotel_id": "H015", "name": "Delhi Central Stay", "city": "Delhi", "price_per_night": 3200, "rating": 4.0, "stars": 3, "amenities": ["WiFi", "Restaurant", "Parking", "Gym"], "type": "Hotel"},
+  {"hotel_id": "H016", "name": "Manali Snow Resort", "city": "Manali", "price_per_night": 4200, "rating": 4.5, "stars": 4, "amenities": ["Mountain View", "Bonfire", "WiFi", "Breakfast", "Trekking Guide"], "type": "Resort"},
+  {"hotel_id": "H017", "name": "Manali Budget Hostel", "city": "Manali", "price_per_night": 900, "rating": 3.9, "stars": 1, "amenities": ["WiFi", "Common Kitchen"], "type": "Hostel"},
+  {"hotel_id": "H018", "name": "Solang Valley Inn", "city": "Manali", "price_per_night": 2600, "rating": 4.2, "stars": 3, "amenities": ["Mountain View", "WiFi", "Restaurant"], "type": "Hotel"},
+  {"hotel_id": "H019", "name": "Bangalore Boutique Stay", "city": "Bangalore", "price_per_night": 3500, "rating": 4.3, "stars": 4, "amenities": ["Pool", "WiFi", "Restaurant", "Bar", "Gym"], "type": "Boutique"},
+  {"hotel_id": "H020", "name": "Hyderabad Heritage Hotel", "city": "Hyderabad", "price_per_night": 4800, "rating": 4.6, "stars": 4, "amenities": ["Pool", "Spa", "WiFi", "Restaurant", "Cultural Shows"], "type": "Heritage"}
+]
