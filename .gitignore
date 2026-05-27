@@ -1,0 +1,36 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+streamlit_*.log
+
+# Data files that may be large or private
+data/*.json
+
+# Hugging Face token
+agent/.env
+
+# Byte-compiled / distribution
+build/
+dist/
+*.egg-info/
